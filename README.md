@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Q4D4
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning gatsbyJS
+- 🌱 I’m currently learning typescript
 
 <!---
 Q4D4/Q4D4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
